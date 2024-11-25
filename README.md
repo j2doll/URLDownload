@@ -4,7 +4,7 @@
 
 - Using Internet Explorer to download files
 
-![](https://github.com/j2doll/URLDownload.Michael.Dunn/blob/vs2019/data/URLDownload.gif?raw=true)
+![](https://raw.githubusercontent.com/j2doll/URLDownload.Michael.Dunn/refs/heads/vs2019/data/URLDownload.gif)
 
 ## License ank links
 - URLDownload is under MIT License. 
